@@ -1,6 +1,7 @@
 # Hazi_Dolgozat_-_12.A_12.B_Jarai_Balazs
 
 Leírás:
+
 GET végpont tesztelése:
     http://localhost:5000/hello
     http://localhost:5000/user/yourname
